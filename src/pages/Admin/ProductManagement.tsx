@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import AdminLayout from '../../components/AdminLayout';
 import { Plus, Edit2, Trash2, Package } from 'lucide-react';
 
